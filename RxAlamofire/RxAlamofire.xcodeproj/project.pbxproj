@@ -40,9 +40,6 @@
 		C87D2CA81D8F35F8003F5936 /* RxAlamofire.h in Headers */ = {isa = PBXBuildFile; fileRef = C87D2CA31D8F35F8003F5936 /* RxAlamofire.h */; };
 		C87D2CA91D8F35F8003F5936 /* RxAlamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = C87D2CA41D8F35F8003F5936 /* RxAlamofire.swift */; };
 		C87D2CAA1D8F35F8003F5936 /* RxAlamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = C87D2CA41D8F35F8003F5936 /* RxAlamofire.swift */; };
-		C89A9DC91BE234C2005113E4 /* RxCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C89A9DC71BE234C2005113E4 /* RxCocoa.framework */; };
-		C89A9DCA1BE234C2005113E4 /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C89A9DC81BE234C2005113E4 /* RxSwift.framework */; };
-		C89A9DCC1BE234C5005113E4 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C89A9DCB1BE234C5005113E4 /* Alamofire.framework */; };
 		C89A9DDB1BE235F7005113E4 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C89A9DD71BE235F7005113E4 /* Alamofire.framework */; };
 		C89A9DDD1BE235F7005113E4 /* RxCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C89A9DD91BE235F7005113E4 /* RxCocoa.framework */; };
 		C89A9DDE1BE235F7005113E4 /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C89A9DDA1BE235F7005113E4 /* RxSwift.framework */; };
@@ -185,9 +182,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C89A9DCC1BE234C5005113E4 /* Alamofire.framework in Frameworks */,
-				C89A9DC91BE234C2005113E4 /* RxCocoa.framework in Frameworks */,
-				C89A9DCA1BE234C2005113E4 /* RxSwift.framework in Frameworks */,
 				1EEFB4A3D3253FC4CB9ECC0F /* Pods_RxAlamofire_iOS.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
